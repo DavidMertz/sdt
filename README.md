@@ -68,7 +68,7 @@ project uses).
 An additional "fallback" means of supporting programming languages for
 analysis is using the `tree-sitter-cli` parser/generator with any grammars
 that happen to be installed.  This loses the ability to tailor analysis to a
-specific language version, but adds many additional languges.  See the main
+specific language version, but adds many additional languages.  See the main
 documentation for details.
 
 In one manner or another (or via multiple, configurable options), `sdt` can
